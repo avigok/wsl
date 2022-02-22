@@ -5,7 +5,7 @@
    - [Microsoft WSL documentation](https://docs.microsoft.com/en-us/windows/wsl/)
    - [Extend VHD Size](https://docs.microsoft.com/en-us/windows/wsl/vhd-size)
 
-### 2. Installing on a specific drive (HDD/SDD) other than system drive (aka C:)
+### 2. Installing on a specific drive (HDD/SDD) other than system drive (C:)
 
    - Download your preferred [distribution](https://docs.microsoft.com/en-us/windows/wsl/install-manual#downloading-distributions) from microsoft store to the desired drive location.
       - eg., ```D:\wsl\ubuntu.appx```
